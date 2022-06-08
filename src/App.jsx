@@ -5,10 +5,10 @@ import './App.css'
 function App() {
 
   return (
-    <div className="simon">
+    <div className="simon circle oh bGray">
 
     </div>
-  )
+  );
 }
 
 export default App
