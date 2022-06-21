@@ -14,3 +14,6 @@ From your terminal:
 ```sh
 npm run dev
 ```
+
+## Gameplay
+Press start and simply repeat the sequence, each time you succeed, the sequence progressively becomes longer.
